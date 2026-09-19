@@ -1,4 +1,4 @@
-# Fingerprint-based Smart Door Lock System
+# Biometric IoT Access Control System
 
 Access control is one of the important aspects of cybersecurity. This is a prototype of a smart door lock system which provides access control to the resources in an organization. The system is based on fingerprint input. When an authorized user places finger on the sensor, the servo rotates to a right angle simulating the door unlocking.
 
